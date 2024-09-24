@@ -1,0 +1,7 @@
+numpy
+matplotlib
+scikit-learn
+tensorflow[and-cuda]
+ipywidgets
+ipykernel
+keras-tuner
